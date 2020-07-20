@@ -54,7 +54,11 @@ Follow the instructions in `Continuous_Control.ipynb` to get started with traini
 
 After you have successfully completed the project, you might like to solve the more difficult **Crawler** environment.
 
-![Crawler][image2]
+<p align="center">
+
+<img src="assets/crawler.png" width="60%" align="top-left" alt="" title="Banana Agent" />
+
+</p>
 
 In this continuous control environment, the goal is to teach a creature with four legs to walk forward without falling.  
 
