@@ -1,6 +1,4 @@
-#### Udacity Deep Reinforcement Learning Nanodegree
-### Project 2: Continuous Control
-
+# Project 2: Continuous Control
 
 ## Project description
 
@@ -92,13 +90,14 @@ def forward(self, state, action):
 
 
 ### 3. Results
+
 Once all of the various components of the algorithm were in place, my agent was able to solve the 20 agent Reacher environment. Again, the performance goal is an average reward of at least +30 over 100 episodes, and over all 20 agents.
 
-The graph below shows the final results. The best performing agent was able to solve the environment starting with the 12th episode, with a top mean score of 39.3 in the 79th episode. The complete set of results and steps can be found in [this notebook](Continuous_Control_v8.ipynb).
+<p align="center">
 
-<img src="assets/results-graph.png" width="70%" align="top-left" alt="" title="Results Graph" />
+<img src="assets/result-graph.png" width="60%" align="top-left" alt="" title="Reacher Agent" />
 
-<img src="assets/output.png" width="100%" align="top-left" alt="" title="Final output" />
+</p>
 
 
 ##### &nbsp;
